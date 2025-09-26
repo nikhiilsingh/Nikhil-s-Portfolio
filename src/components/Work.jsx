@@ -13,7 +13,7 @@ const Work = () => {
       image: "https://media.istockphoto.com/id/615422436/photo/demo-sign-cubes.jpg?s=612x612&w=0&k=20&c=HHOLIiF8SmbIssxKv3G480EgTVub_v9cc1QME3Dn6XU=", // Replace with actual image import
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
       github:
-        "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+        "https://github.com/",
       webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
@@ -23,7 +23,7 @@ const Work = () => {
         "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
       image: "path/to/csprepLogo",
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
+      github: "https://github.com/",
       webapp: "https://csprep.netlify.app/",
     },
     {
@@ -33,7 +33,7 @@ const Work = () => {
         "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
       image: "path/to/movierecLogo",
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
+      github: "https://github.com/",
       webapp: "https://movie-recommendation-app-jet.vercel.app/",
     },
   ];
